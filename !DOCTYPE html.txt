@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página HTML Simples</title>
+</head>
+<body>
+    <h1>Bem-vindo à minha página!</h1>
+    <p>Este é um exemplo de uma página HTML simples.</p>
+    
+    <h2>Seções:</h2>
+    <ul>
+        <li>Introdução</li>
+        <li>Sobre</li>
+        <li>Contato</li>
+    </ul>
+
+    <p>Obrigado por visitar!</p>
+</body>
+</html>
